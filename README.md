@@ -1,6 +1,6 @@
-# Python Talking Voice Assistant
+# Python Speed Test
 
-A silly talking assistant app (upgradeable)
+Speed test application 
 
 ## Installation
 
@@ -10,13 +10,13 @@ git clone https://github.com/ilkay-alti/Speed-Test.git
 
 ```
 
-## Start Assistant
+## Start 
 
 ```bash
 python main.py
 ```
 
-## Voice Command
+## How The Use
 ```python
 
 Test is pressed when pressing the start button
@@ -29,6 +29,8 @@ in a few seconds the results are showing on our panel
 
 ```
 ![](images/2.png)
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
